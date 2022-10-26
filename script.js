@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Return YouTube Trending
 // @name:de         YouTube Trends wieder anzeigen
-// @version         1.0.0
+// @version         1.1.0
 // @description     Re-display the Explore/Trending Button in the Side Menu on YouTube
 // @description:de  Zeigt die Entdecken/Trends-Schaltfläche im Seitenmenü auf YouTube wieder an
 // @author          TalkLounge (https://github.com/TalkLounge)
